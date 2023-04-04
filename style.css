@@ -528,7 +528,7 @@ p {
 
 footer {
   width: 100%;
-  min-height: 40vh;
+  min-height: 55vh;
   margin-top: 5vh;
   display: flex;
   justify-content: center;
@@ -547,7 +547,7 @@ footer .m-laradar-icon {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  width: 25%;
+  width: 20%;
 }
 footer .m-laradar-icon img {
   width: 15%;
@@ -562,7 +562,7 @@ footer .instagram-link {
   justify-content: center;
   align-items: center;
   flex-direction: row;
-  width: 25%;
+  width: 20%;
 }
 footer .instagram-link a {
   width: 100%;
