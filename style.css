@@ -547,8 +547,7 @@ footer .m-laradar-icon {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  width: 10%;
-  display: none;
+  width: 10% !important;
 }
 footer .m-laradar-icon img {
   width: 15% !important;
