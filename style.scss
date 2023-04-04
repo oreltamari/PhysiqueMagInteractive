@@ -1,0 +1,17 @@
+$header1: 4rem;
+$header2: 2rem;
+$author: 1.9rem;
+$header3: 3.5rem;
+$text: 1.9rem;
+$quote: 1.5rem;
+$background: #121212;
+
+@mixin flex($justify, $align, $direction) {
+  display: flex;
+  justify-content: $justify;
+  align-items: $align;
+  flex-direction: $direction;
+}
+
+@import "_global";
+@import "_article";
