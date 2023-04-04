@@ -1075,7 +1075,7 @@ footer .instagram-link a img {
 }
 footer {
   width: 100%;
-  min-height: 30vh;
+  min-height: 35vh;
   margin-top: 10vh;
   display: flex;
   justify-content: center;
@@ -1089,7 +1089,7 @@ footer svg {
   height: 100%;
 }
 footer .m-laradar-icon {
-  margin-top: 10vh;
+  margin-top: 15vh;
   display: flex;
   justify-content: center;
   align-items: center;
