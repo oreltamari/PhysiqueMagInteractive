@@ -547,10 +547,10 @@ footer .m-laradar-icon {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  width: 50% !important;
+  width: 51% !important;
 }
 footer .m-laradar-icon img {
-  width: 10% !important;
+  width: 11% !important;
 }
 footer h2 {
   color: white;
@@ -563,7 +563,7 @@ footer .instagram-link {
   justify-content: center;
   align-items: center;
   flex-direction: row;
-  width: 15% !important;
+  width: 14% !important;
 }
 footer .instagram-link a {
   width: 50%;
@@ -573,7 +573,7 @@ footer .instagram-link a {
   flex-direction: row;
 }
 footer .instagram-link a img {
-  width: 15% !important;
+  width: 14% !important;
 }
 
 /*
