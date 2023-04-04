@@ -542,7 +542,7 @@ footer svg {
   height: 100%;
 }
 footer .m-laradar-icon {
-  margin-top: 5rem;
+  margin-top: 10vh !important;
   display: flex;
   justify-content: center;
   align-items: center;
