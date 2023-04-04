@@ -551,7 +551,7 @@ footer .m-laradar-icon {
   display: none;
 }
 footer .m-laradar-icon img {
-  width: 15%;
+  width: 15% !important;
 }
 footer h2 {
   color: white;
@@ -573,7 +573,7 @@ footer .instagram-link a {
   flex-direction: row;
 }
 footer .instagram-link a img {
-  width: 10%;
+  width: 10% !important;
 }
 
 /*
