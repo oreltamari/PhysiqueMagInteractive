@@ -701,7 +701,7 @@ footer .instagram-link a img {
   }
   .container .trim-magazine-scroll .trim-magazine-text .text-span {
     height: 70vh;
-    width: 95%;
+    width: 95% !important;
   }
   .container .trim-magazine-scroll .trim-magazine-text .text-span p {
     color: white;
@@ -724,6 +724,7 @@ footer .instagram-link a img {
   }
   .container .trim-magazine-scroll .trim-magazine-text .magazine-img-span img {
     width: 50%;
+    opacity: 100% !importnat;
   }
   .container .trim-magazine-scroll .trim-magazine-text .magazine-img-span p {
     display: flex;
