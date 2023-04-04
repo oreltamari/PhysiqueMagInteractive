@@ -64,7 +64,7 @@ p {
   width: 20%;
 }
 .headline .headline-background .background-pic .headline-background-img {
-  background-image: url(/img/headline-img.jpg);
+  background-image: url(/headline-img.jpg);
   width: 100%;
   height: 100vh;
   background-size: cover;
@@ -134,7 +134,7 @@ p {
   height: 100% !important;
 }
 .trim-magazine-scroll .sticky-header .header-media .full-image {
-  background-image: url(/img/SailorsBg.jpeg);
+  background-image: url(/SailorsBg.jpeg);
   position: absolute;
   left: 0;
   top: 0;
@@ -534,7 +534,7 @@ footer {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  background-image: url(/img/icon/end-of-article.svg);
+  background-image: url(/end-of-article.svg);
   fill: rgb(170, 170, 170);
 }
 footer svg {
@@ -611,7 +611,7 @@ footer .instagram-link a img {
     width: 20%;
   }
   .container .headline .headline-background .background-pic .headline-background-img {
-    background: linear-gradient(rgba(0, 0, 0, 0.2078431373), #000000), url(/img/headline-img.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.2078431373), #000000), url(/headline-img.jpg);
     width: 100%;
     width: 100%;
     height: 100vh;
@@ -682,7 +682,7 @@ footer .instagram-link a img {
     height: 100% !important;
   }
   .container .trim-magazine-scroll .sticky-header .header-media .full-image {
-    background-image: url(/img/SailorsBg.jpeg);
+    background-image: url(/SailorsBg.jpeg);
     position: absolute;
     left: 0;
     top: 0;
@@ -1081,7 +1081,7 @@ footer {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  background-image: url(/img/icon/end-of-article.svg);
+  background-image: url(/end-of-article.svg);
   fill: rgb(170, 170, 170);
 }
 footer svg {
