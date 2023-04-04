@@ -556,7 +556,7 @@ footer h2 {
   color: white;
   font-weight: 400;
   margin: 1rem 0rem;
-  font-size: 1.8rem;
+  font-size: 1.8rem !important;
 }
 footer .instagram-link {
   display: flex;
