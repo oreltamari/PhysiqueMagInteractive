@@ -8,7 +8,7 @@ if (
     $(".sticky-content ").css({
       opacity: function () {
         var elementHeight = $(this).height(),
-          opacity = (1 - (elementHeight - scrollTop) / elementHeight) * 0;
+          opacity = (1 - (elementHeight - scrollTop) / elementHeight) * 0.1;
         return opacity;
       },
     });
