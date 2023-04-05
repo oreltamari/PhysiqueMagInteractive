@@ -401,6 +401,7 @@ p {
   width: 100%;
   position: relative;
   right: 0;
+  margin: 3rem 0rem !important;
 }
 .article-large-img img {
   display: flex;
