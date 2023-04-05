@@ -547,7 +547,7 @@ footer .m-laradar-icon {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  width: 51% !important;
+  width: 30% !important;
 }
 footer .m-laradar-icon img {
   width: 11% !important;
@@ -563,7 +563,7 @@ footer .instagram-link {
   justify-content: center;
   align-items: center;
   flex-direction: row;
-  width: 14% !important;
+  width: 10% !important;
 }
 footer .instagram-link a {
   width: 50%;
@@ -573,7 +573,7 @@ footer .instagram-link a {
   flex-direction: row;
 }
 footer .instagram-link a img {
-  width: 14% !important;
+  width: 10% !important;
 }
 
 /*
